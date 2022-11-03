@@ -1,5 +1,6 @@
 data/
 figs/
+docs/
 
 *.out
 *.err
@@ -8,3 +9,4 @@ figs/
 *.clstr
 
 .ipynb_checkpoints/
+.DS_Store
